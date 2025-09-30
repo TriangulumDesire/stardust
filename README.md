@@ -1,4 +1,4 @@
-# This project is currently being remade within a private repository. I will make a new public release and continue development in this repository when that is finished.
+# 2025Q3 update: this project is currently being remade within a private repository. I will make a new public release and continue development in this repository when that is finished.
 
 # Stardust.
 
