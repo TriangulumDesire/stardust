@@ -1,3 +1,5 @@
+# This project is currently being remade within a private repository. I will make a new public release and continue development in this repository when that is finished.
+
 # Stardust.
 
 A 2D game engine/framework built with C++20, SDL2, and OpenGL.
